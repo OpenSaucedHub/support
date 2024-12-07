@@ -1,4 +1,4 @@
-name: Organization Invitation Workflow
+name: Organization Invitation
 
 on:
   issues:
