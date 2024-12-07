@@ -3,7 +3,7 @@ description: Request to join the Open Sauced Hub
 title: "org/membership: "
 labels: ["membership"]
 assignees:
-  - vixshan
+  - iamvikshan
 body:
   - type: markdown
     attributes:

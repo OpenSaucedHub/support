@@ -1,6 +1,6 @@
 <div align="center">
 
-[Join the Community](https://github.com/OpenSaucedHub/support/issues/new?assignees=vixshan&labels=membership&template=membership.yml&title=Please+invite+me+to+Open+Sauced+Hub)
+[Join the Community](https://github.com/OpenSaucedHub/support/issues/new?assignees=iamvikshan&labels=membership&template=membership.yml&title=Please+invite+me+to+Open+Sauced+Hub)
 • [Join Our Discord](https://discord.gg/uMgS9evnmv)
 
 </div>
